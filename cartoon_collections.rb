@@ -1,5 +1,5 @@
 def roll_call_dwarves(array)
- array.map {|n| puts n}
+ array.collection {|n| puts n}
 end
 
 def summon_captain_planet(array)
