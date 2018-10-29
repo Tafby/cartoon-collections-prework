@@ -1,5 +1,6 @@
 def roll_call_dwarves(array)
  array.each {|n| puts n}
+ end
 end
 
 def summon_captain_planet(array)
